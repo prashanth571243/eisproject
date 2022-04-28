@@ -1,0 +1,27 @@
+         "relationships":{
+            "node_type":{
+               "data":null,
+               "links":{
+                  "self":{
+                     "href":"http:\/\/www.ftc.gov\/v0\/hsr-early-termination-notices\/76283f6b-0466-4b4c-8578-0df9a6a4bd84\/relationships\/node_type?resourceVersion=id%3A27285"
+                  }
+               }
+            }
+         }
+      }
+   ],
+   "meta":{
+      "count":"27139"
+   },
+   "links":{
+      "last":{
+         "href":"http:\/\/www.ftc.gov\/v0\/hsr-early-termination-notices?sort%5Bsort-created%5D%5Bpath%5D=created\u0026sort%5Bsort-created%5D%5Bdirection%5D=DESC\u0026page%5Boffset%5D=27100\u0026page%5Blimit%5D=50"
+      },
+      "next":{
+         "href":"http:\/\/www.ftc.gov\/v0\/hsr-early-termination-notices?sort%5Bsort-created%5D%5Bpath%5D=created\u0026sort%5Bsort-created%5D%5Bdirection%5D=DESC\u0026page%5Boffset%5D=50\u0026page%5Blimit%5D=50"
+      },
+      "self":{
+         "href":"http:\/\/www.ftc.gov\/v0\/hsr-early-termination-notices"
+      }
+   }
+}

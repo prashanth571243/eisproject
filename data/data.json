@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c8452",
+      "attributes": {
+        "company-phone-number": "",
+        "created-date": "2020-02-27 04:55:45",
+        "violation-date": "2020-02-24 17:57:00",
+        "consumer-city": "",
+        "consumer-state": "Nevada",
+        "consumer-area-code": "702",
+        "subject": "No Subject Provided",
+        "recorded-message-or-robocall": "Y"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c8452"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c80b0",
+      "attributes": {
+        "company-phone-number": "4108106212",
+        "created-date": "2020-02-27 04:55:08",
+        "violation-date": "2020-02-04 15:13:00",
+        "consumer-city": "Columbia",
+        "consumer-state": "Maryland",
+        "consumer-area-code": "410",
+        "subject": "Energy, solar,  \u0026 utilities",
+        "recorded-message-or-robocall": "Y"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c80b0"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c7640",
+      "attributes": {
+        "company-phone-number": "3014754199",
+        "created-date": "2020-02-27 04:53:34",
+        "violation-date": "2020-02-04 09:32:00",
+        "consumer-city": "Columbia",
+        "consumer-state": "Maryland",
+        "consumer-area-code": "410",
+        "subject": "Warranties  \u0026 protection plans",
+        "recorded-message-or-robocall": "Y"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c7640"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c6d9a",
+      "attributes": {
+        "company-phone-number": "4107771839",
+        "created-date": "2020-02-27 04:51:51",
+        "violation-date": "2020-02-03 17:51:00",
+        "consumer-city": "Columbia",
+        "consumer-state": "Maryland",
+        "consumer-area-code": "410",
+        "subject": "Reducing your debt (credit cards, mortgage, student loans)",
+        "recorded-message-or-robocall": "Y"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c6d9a"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c63c2",
+      "attributes": {
+        "company-phone-number": "4107737573",
+        "created-date": "2020-02-27 04:50:15",
+        "violation-date": "2020-02-03 17:07:00",
+        "consumer-city": "Columbia",
+        "consumer-state": "Maryland",
+        "consumer-area-code": "410",
+        "subject": "Reducing your debt (credit cards, mortgage, student loans)",
+        "recorded-message-or-robocall": "Y"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c63c2"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c5833",
+      "attributes": {
+        "company-phone-number": "5088872098",
+        "created-date": "2020-02-27 04:44:51",
+        "violation-date": "2020-02-03 16:17:00",
+        "consumer-city": "Columbia",
+        "consumer-state": "Maryland",
+        "consumer-area-code": "410",
+        "subject": "Index improvement  \u0026 cleaning",
+        "recorded-message-or-robocall": "Y"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c5833"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c5145",
+      "attributes": {
+        "company-phone-number": "8632791424",
+        "created-date": "2020-02-27 04:43:21",
+        "violation-date": "2020-02-03 16:01:00",
+        "consumer-city": "Columbia",
+        "consumer-state": "Maryland",
+        "consumer-area-code": "410",
+        "subject": "Reducing your debt (credit cards, mortgage, student loans)",
+        "recorded-message-or-robocall": "Y"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c5145"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c50c8",
+      "attributes": {
+        "company-phone-number": "4107714970",
+        "created-date": "2020-02-27 04:42:06",
+        "violation-date": "2020-02-03 12:13:00",
+        "consumer-city": "Columbia",
+        "consumer-state": "Maryland",
+        "consumer-area-code": "410",
+        "subject": "Reducing your debt (credit cards, mortgage, student loans)",
+        "recorded-message-or-robocall": "Y"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c50c8"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c4e69",
+      "attributes": {
+        "company-phone-number": "7166521009",
+        "created-date": "2020-02-27 04:37:15",
+        "violation-date": "2020-02-26 18:59:00",
+        "consumer-city": "",
+        "consumer-state": "Illinois",
+        "consumer-area-code": "847",
+        "subject": "No Subject Provided",
+        "recorded-message-or-robocall": "N"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c4e69"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c41e3",
+      "attributes": {
+        "company-phone-number": "8478086112",
+        "created-date": "2020-02-27 04:35:43",
+        "violation-date": "2020-02-26 14:54:00",
+        "consumer-city": "",
+        "consumer-state": "Illinois",
+        "consumer-area-code": "847",
+        "subject": "No Subject Provided",
+        "recorded-message-or-robocall": "N"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c41e3"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c4041",
+      "attributes": {
+        "company-phone-number": "5072003799",
+        "created-date": "2020-02-27 04:34:06",
+        "violation-date": "2020-02-26 14:36:00",
+        "consumer-city": "",
+        "consumer-state": "Illinois",
+        "consumer-area-code": "847",
+        "subject": "No Subject Provided",
+        "recorded-message-or-robocall": "N"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c4041"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c34ee",
+      "attributes": {
+        "company-phone-number": "3178701454",
+        "created-date": "2020-02-27 04:32:26",
+        "violation-date": "2020-02-25 08:20:00",
+        "consumer-city": "",
+        "consumer-state": "Illinois",
+        "consumer-area-code": "847",
+        "subject": "No Subject Provided",
+        "recorded-message-or-robocall": "N"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c34ee"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c3138",
+      "attributes": {
+        "company-phone-number": "6785050054",
+        "created-date": "2020-02-27 04:23:11",
+        "violation-date": "2020-02-26 16:00:00",
+        "consumer-city": "Earlysville",
+        "consumer-state": "Virginia",
+        "consumer-area-code": "434",
+        "subject": "Computer  \u0026 technical support",
+        "recorded-message-or-robocall": "N"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c3138"
+      }
+    },
+    {
+      "type": "dnc_complaint",
+      "id": "2dae54c3d3c06d1960689139d39c2fb3",
+      "attributes": {
+        "company-phone-number": "5162681355",
+        "created-date": "2020-02-27 04:13:57",
+        "violation-date": "2020-02-25 00:00:00",
+        "consumer-city": "Marion",
+        "consumer-state": "Illinois",
+        "consumer-area-code": "618",
+        "subject": "Lotteries, prizes  \u0026 sweepstakes",
+        "recorded-message-or-robocall": "N"
+      },
+      "relationships": [
+
+      ],
+      "meta": [
+
+      ],
+      "links": {
+        "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22\/2dae54c3d3c06d1960689139d39c2fb3"
+      }
+    }
+  ],
+  "meta": {
+    "records-this-page": 14,
+    "record-total": 14
+  },
+  "links": {
+    "self": "http:\/\/www.ftc.gov\/v0\/dnc-complaints?created_date_from=%222020-02-27%2004:10:00%22\u0026created_date_to=%222020-02-27%2004:60:00%22"
+  }
+}
